@@ -1,0 +1,19 @@
+.oddno {
+    background-color: #FFD6D1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.oddno#cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(194, 241, 194);
+    font-size: 24px;
+    font-weight: bold;
+}
