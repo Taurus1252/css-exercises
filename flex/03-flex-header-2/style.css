@@ -10,6 +10,7 @@ body {
   font-family: Besley, serif;
   
   
+  
 }
 
 .header {
@@ -37,6 +38,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  
   
 }
 
@@ -72,11 +74,11 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: auto;
+  margin: 0;
 }
 
 .right-side {
-  margin: auto;
+  margin: 0;
   gap: 20px;
 }
 
